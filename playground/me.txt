@@ -1,0 +1,5 @@
+{{#user}}
+Name: Protik Sarkar
+Skills: HTML, CSS, Vanila JS, PHP, MySQL, XAMPP
+Email: sarkarprotik240@gmail.com
+{{/user}}
